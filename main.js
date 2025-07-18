@@ -4,7 +4,7 @@
 // PENGATURAN GLOBAL
 // ===================================================================
 const GITHUB_USERNAME = 'adiputra260124';
-const MAIN_REPO_NAME = 'web-galery-artis';
+const MAIN_REPO_NAME = 'sexyifluencer';
 const GITHUB_REPO_BRANCH = 'main';
 const GLOBAL_DIRECT_LINK = "https://caressfinancialdodge.com/e8e8ekz2we?key=d41e32129606fc3524b6e8c4db365ce9";
 const DEFAULT_BIO = "Welcome to my personal blog!";
